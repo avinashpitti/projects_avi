@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f7f9fb;
+  color: #333;
+}
+a {
+  margin-left: 1rem;
+  color: white;
+  text-decoration: none;
+}
+button {
+  margin-left: 0.5rem;
+}
